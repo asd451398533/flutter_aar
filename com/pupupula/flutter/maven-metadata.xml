@@ -3,14 +3,15 @@
   <groupId>com.pupupula</groupId>
   <artifactId>flutter</artifactId>
   <versioning>
-    <release>1.0.5</release>
+    <release>1.0.5-SNAPSHOP</release>
     <versions>
       <version>1.0.1</version>
       <version>1.0.2</version>
       <version>1.0.3</version>
       <version>1.0.4</version>
       <version>1.0.5</version>
+      <version>1.0.5-SNAPSHOP</version>
     </versions>
-    <lastUpdated>20190516072217</lastUpdated>
+    <lastUpdated>20190516072409</lastUpdated>
   </versioning>
 </metadata>
