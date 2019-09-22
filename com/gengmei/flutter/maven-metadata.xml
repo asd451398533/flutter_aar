@@ -3,7 +3,7 @@
   <groupId>com.gengmei</groupId>
   <artifactId>flutter</artifactId>
   <versioning>
-    <release>1.0.11</release>
+    <release>1.0.12</release>
     <versions>
       <version>1.0.0-SNAPSHOT</version>
       <version>1.0.1-SNAPSHOT</version>
@@ -15,7 +15,8 @@
       <version>1.0.7</version>
       <version>1.0.10</version>
       <version>1.0.11</version>
+      <version>1.0.12</version>
     </versions>
-    <lastUpdated>20190922130145</lastUpdated>
+    <lastUpdated>20190922140034</lastUpdated>
   </versioning>
 </metadata>
